@@ -4,6 +4,6 @@ First you need to install "pyshorteners"
 
 or 
 
-click the link below and install
+click the link and install
 https://pypi.org/project/pyshorteners/
 
